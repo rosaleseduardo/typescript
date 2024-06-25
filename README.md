@@ -42,7 +42,7 @@
 
 # What is TypeScript?
 
-TypeScript is a **_free and open-source_** programming language developed and maintained by Microsoft. It is also a **_strict syntactical superset_** of JavaScript which allows developes to work the type system it provides.
+TypeScript is a **_free and open-source_** programming language developed and maintained by Microsoft. It is also a **_strict syntactical superset_** of JavaScript which allows developers to work the type system it provides.
 
 # Why do we care about types?
 
